@@ -8,7 +8,7 @@ We extract retail order data from Kaggle using the Kaggle API (implemented in Py
 We clean and transform the data using Pandas in Python.
 Tasks include handling missing values, standardizing formats, and creating relevant features.
 # 3. Data Loading:
-The transformed data is loaded into a PostgreSQL database.
+The transformed data is loaded into a SQL Server database.
 We organize the data for efficient querying and analysis.
 # 4. Data Insights:
 Using SQL queries, we uncover trends within the retail order data.
